@@ -52,7 +52,7 @@
 4. 行った：行きたいリストにて達成したものをこちらで管理
 5. 設定：諸設定画面。シェアしたいユーザの登録？連携？などはここで
 
-![home.png](C:\Users\t2140028\Google ドライブ\ios\home.png)
+![home.png](https://github.com/tomonos333/OriginalApp01.git/images/home.png)
 
 ### 1・ホーム
 ・シェアしているどのユーザについてのリスト管理をするか選択によって切り替えられる
